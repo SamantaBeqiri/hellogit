@@ -22,10 +22,6 @@ System.out.println("Me neither");
 
 
 
-
-=======
-System.out.println("Lalala");
->>>>>>> branch 'master' of https://github.com/SamantaBeqiri/hellogit.git
 	}
 
 }
