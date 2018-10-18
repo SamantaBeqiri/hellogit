@@ -12,7 +12,8 @@ System.out.println("Lalala");
 System.out.println("Me neither");
 System.out.println("Me neither");
 System.out.println("Na cateee koken ,na e cave ti ");
-for(int i=0;i<3;i++) {
+int i=0;
+while (i<3) {
 	System.out.println("hi");
 }
 
