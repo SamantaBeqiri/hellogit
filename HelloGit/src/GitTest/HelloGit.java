@@ -12,7 +12,7 @@ System.out.println("Lalala");
 System.out.println("Me neither");
 System.out.println("Me neither");
 System.out.println("Really :p");
-System.out.println("Na cat koken ,na e cave ti ");
+System.out.println("Na cateee koken ,na e cave ti ");
 
 
 
