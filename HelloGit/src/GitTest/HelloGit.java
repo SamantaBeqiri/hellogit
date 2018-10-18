@@ -6,19 +6,10 @@ public class HelloGit {
 		// TODO Auto-generated method stub
 		//comentadded
 		//coment
-System.out.println("Hello,git");
-System.out.println("Dajana I love youuu");
-System.out.println("Lalala");
-System.out.println("Me neither");
-System.out.println("Me neither");
-System.out.println("Na cateee koken ,na e cave ti ");
-int i=0;
-int a=1;
-while (i<3) {
-	
-	System.out.println(a);
+int [] data= {1,2,3};
+for (int i=0;i<3;i++) {
+	System.out.print(data[i]);
 }
-
 
 
 
