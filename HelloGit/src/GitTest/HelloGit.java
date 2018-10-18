@@ -13,8 +13,10 @@ System.out.println("Me neither");
 System.out.println("Me neither");
 System.out.println("Na cateee koken ,na e cave ti ");
 int i=0;
+int a=1,b=2;
 while (i<3) {
-	System.out.println("hi");
+	
+	System.out.println(a+b);
 }
 
 
