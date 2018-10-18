@@ -9,6 +9,7 @@ public class HelloGit {
 	
 		for(int i:data  ) {
 			System.out.println(data[i]);
+			System.out.println("hi");
 		}
 		
 
